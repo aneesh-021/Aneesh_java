@@ -1,0 +1,24 @@
+oops is a object oriented language that allows user to reduce code complexity , reusablity and scalability of the code
+
+Class: Class is a blueprint of the the object that stores the charateristics of the objects
+
+object: object are the instances of the Class.An object is an instance of a class. It represents a real-world entity and can access the properties and methods defined in the class.
+
+Occupies memory when created.
+Used to access class members.
+
+
+Public:accesible everwhere
+
+
+
+Private:not accesible everwhere but only in class
+
+
+
+
+Protected: protected within class and outside
+
+
+
+fuction: 
