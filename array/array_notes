@@ -1,0 +1,25 @@
+Array is the list of the item of similar type or class
+eg. 
+int[] eng= new int[5];
+int[] maths= new int[5];
+int[] chemistry= new int[5];
+
+instead of making many number of the variable for each subject use Array to store it.
+
+syntax: type[]ArrayName= new type[size];
+eg. int[] marks= new int[5];
+
+new= Keyword used to create an object of the array.
+[]= array brackets used to declare the array.
+
+to store the value in the array we use index number starting from 0 to (size-1).
+Java arrays are called zero-based arrays because the index of the first element is 0, not 1.
+eg. 
+marks[0]=85; .. marks of eng
+marks[1]=90; .. marks of maths
+marks[2]=95; .. marks of chemistry
+
+to get stored item in index number we use the same index number to get the value.
+eg. System.out.println(marks[0]); // it will print 85
+System.out.println(marks[1]); // it will print 90
+System.out.println(marks[2]); // it will print 95
